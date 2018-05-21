@@ -11,7 +11,7 @@
     </asset>
     <library_images>
         <image id="ID13">
-            <init_from>tex/shadow-circle.png</init_from>
+            <init_from>https://github.com/timothyjellison/webvr-demos/blob/master/tex/shadow-circle.png</init_from>
         </image>
     </library_images>
     <library_effects>
